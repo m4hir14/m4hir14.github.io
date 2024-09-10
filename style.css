@@ -97,3 +97,8 @@ img {
     color: white;
     text-decoration: none;
 }
+
+#pizza_img {
+    height: 25%;
+    width: 70%;
+}
