@@ -42,7 +42,6 @@ body > header > nav > ul {
     color: white;
     text-decoration: none;
     padding: 12px;
-    border: 1px solid white;
     border-radius: 10%;
 }
 
@@ -60,13 +59,11 @@ body > main article {
     width: 70%;
 }
 
+
 form {
-    text-align: center;
+    margin-left: 12px;
 }
 
-h2 {
-    text-align: center;
-}
 
 body > footer {
     background-color: orange;
@@ -87,6 +84,7 @@ img {
 #footer-ul {
     display: flex;
     list-style: none;
+    justify-content: space-around;
 }
 
 #footer-ul > li {
